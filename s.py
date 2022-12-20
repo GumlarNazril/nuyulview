@@ -28,7 +28,7 @@ f=input("""
 \033[90m> \033[1;96m""")
 if f == "1":
    try:
-       mail=input("\033[1;97m{\033[1;92m+\033[1;97m}Email: \033[1;92m")
+       mail=input("\033[1;97m{\033[1;92m+\033[1;97m}Email:gumlarnazril0719@gmail.com \033[1;92m")
        ua={
        "Content-Type": "application/x-www-form-urlencoded",
        "Host": "video.sub4subnow.com",
